@@ -13,7 +13,7 @@ export default function () {
       <h2>🤫🤫🤫🤫 🤫🤫🤫🤫🤫🤫🤫🤫🤫🤫🤫!!!</h2>
       <img src="images/4.png" />
       <a
-        href="https://warpcast.com/farcasteradmin.eth/0x96b2e070"
+        href="https://warpcast.com/farcasteradmin.eth/0xf92f4a7b"
         target="_blank"
       >
         <h1>
